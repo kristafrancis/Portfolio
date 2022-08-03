@@ -17,4 +17,5 @@ https://kristafrancis.github.io/Portfolio/
 
 Made with ❤️ by Krista Francis
 
-https://user-images.githubusercontent.com/106784320/182619962-93ca9596-ec16-42a7-aaef-0c76673e1d30.png
+
+<img src="<img width="1440" alt="Screen Shot 2022-06-23 at 9 08 22 PM" src="https://user-images.githubusercontent.com/106784320/182622940-16729081-d914-4009-8b08-7f282d32f5e1.png">
